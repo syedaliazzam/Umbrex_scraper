@@ -1,0 +1,5 @@
+{
+  "deploy": {
+    "startCommand": "python fetch_umbrex_email.py"
+  }
+}
